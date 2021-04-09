@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc404d9a-9e8e-41ce-afc2-1ec8f9928eb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../develops/apache-maven-3.6.1/repository_boot/org/mongodb/bson/3.8.2/bson-3.8.2.jar!/org/bson/types/ObjectId.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\develops\apache-maven-3.6.1\repository_boot" />
+        <option name="mavenHome" value="H:\develops\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="H:\develops\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pBTpwyPqDp0ROP7Zw3Dzc5otMs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mongo" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-service/src/main/java/com/itheima/tanhua/dubbo/server/api/impl" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/tanhua-recommend/pom.xml" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itheima.tanhua.dubbo.server.api" />
+      <recent name="com.itheima.tanhua.sso.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\code\tanhua\tanhua-dubbo-parent\tanhua-dubbo-service\src\main\java\com\itheima\tanhua\dubbo\server\api\impl" />
+      <recent name="H:\code\tanhua\tanhua-dubbo-parent\tanhua-dubbo-interface\src\main\java\com\itheima\tanhua\dubbo\server\pojo" />
+      <recent name="H:\code\tanhua\tanhua-dubbo-parent\tanhua-dubbo-interface\src\main\java\com\itheima\tanhua\dubbo\server\vo" />
+      <recent name="H:\code\tanhua\tanhua-dubbo-parent\tanhua-dubbo-interface\src\main\java\com\itheima\tanhua\dubbo\server\api" />
+      <recent name="H:\code\tanhua\tanhua-server\src\main\java\com\itheima\tanhua\server\vo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\code\tanhua" />
+      <recent name="H:\code\tanhua\tanhua-server\src\main\java\com\itheima\tanhua\server\utils" />
+      <recent name="H:\code\tanhua\tanhua-dubbo-parent" />
+      <recent name="H:\code\tanhua\tanhua-dubbo-interface" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itheima.tanhua.sso.service" />
+      <recent name="com.itheima.tanhua.sso.utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.tanhua.server.vo" />
+      <recent name="com.itheima.tanhua.dubbo.service.test" />
+      <recent name="com.itheima.tanhua.sso.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FaceEngineServiceTest">
+    <configuration name="FaceEngineServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tanhua-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.tanhua.sso.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.tanhua.sso.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.tanhua.sso.service.FaceEngineServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tanhua-dubbo-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.tanhua.dubbo.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.tanhua.dubbo.server.DubboApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ESApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tanhua-es" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.dubbo.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.dubbo.es.ESApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecommendAPP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tanhua-recommend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.tanhua.recommend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.tanhua.recommend.RecommendAPP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tanhua-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.tanhua.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.tanhua.server.ServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TanhuaSsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tanhua-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.tanhua.TanhuaSsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FaceEngineServiceTest" />
+      <item itemvalue="Spring Boot.TanhuaSsoApplication" />
+      <item itemvalue="Spring Boot.ServiceApp" />
+      <item itemvalue="Spring Boot.DubboApplication" />
+      <item itemvalue="Spring Boot.RecommendAPP" />
+      <item itemvalue="Spring Boot.ESApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FaceEngineServiceTest" />
+        <item itemvalue="Spring Boot.ESApp" />
+        <item itemvalue="Spring Boot.RecommendAPP" />
+        <item itemvalue="Spring Boot.DubboApplication" />
+        <item itemvalue="Spring Boot.ServiceApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc404d9a-9e8e-41ce-afc2-1ec8f9928eb2" name="Default Changelist" comment="" />
+      <created>1614655669514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614655669514</updated>
+      <workItem from="1614655670672" duration="3026000" />
+      <workItem from="1614660320001" duration="66000" />
+      <workItem from="1614660399213" duration="141000" />
+      <workItem from="1614660576666" duration="20445000" />
+      <workItem from="1614691147717" duration="1482000" />
+      <workItem from="1614730872378" duration="18575000" />
+      <workItem from="1614776391577" duration="270000" />
+      <workItem from="1614776682575" duration="1033000" />
+      <workItem from="1614816749772" duration="2496000" />
+      <workItem from="1614819275384" duration="13219000" />
+      <workItem from="1614846361010" duration="17304000" />
+      <workItem from="1614865870493" duration="1013000" />
+      <workItem from="1614989967590" duration="1656000" />
+      <workItem from="1614994734344" duration="12205000" />
+      <workItem from="1615031485171" duration="2344000" />
+      <workItem from="1615033846298" duration="4134000" />
+      <workItem from="1615076085209" duration="5147000" />
+      <workItem from="1615094695445" duration="513000" />
+      <workItem from="1615095322647" duration="1799000" />
+      <workItem from="1615106260677" duration="14456000" />
+      <workItem from="1615164994926" duration="13934000" />
+      <workItem from="1615249189581" duration="2841000" />
+      <workItem from="1615254079578" duration="238000" />
+      <workItem from="1615254333334" duration="10413000" />
+      <workItem from="1615286840997" duration="87000" />
+      <workItem from="1615286941602" duration="74000" />
+      <workItem from="1615287026572" duration="162000" />
+      <workItem from="1615287199962" duration="535000" />
+      <workItem from="1615287746946" duration="8951000" />
+      <workItem from="1615335322873" duration="616000" />
+      <workItem from="1615340263692" duration="19115000" />
+      <workItem from="1615422153354" duration="5413000" />
+      <workItem from="1615454631550" duration="7545000" />
+      <workItem from="1615466593650" duration="477000" />
+      <workItem from="1615467084978" duration="1594000" />
+      <workItem from="1615599001746" duration="331000" />
+      <workItem from="1615600919516" duration="4362000" />
+      <workItem from="1615631411871" duration="2995000" />
+      <workItem from="1615690676938" duration="13715000" />
+      <workItem from="1615770462313" duration="5826000" />
+      <workItem from="1615861084913" duration="3000" />
+      <workItem from="1615879977726" duration="9979000" />
+      <workItem from="1615900014952" duration="148000" />
+      <workItem from="1615900180054" duration="1542000" />
+      <workItem from="1615943555324" duration="2749000" />
+      <workItem from="1615961006721" duration="1789000" />
+      <workItem from="1616117974022" duration="1682000" />
+      <workItem from="1616204077171" duration="2651000" />
+      <workItem from="1616295384273" duration="813000" />
+      <workItem from="1616379069273" duration="105000" />
+      <workItem from="1616379190015" duration="67000" />
+      <workItem from="1616379270640" duration="90000" />
+      <workItem from="1616379467642" duration="47000" />
+      <workItem from="1616379530433" duration="32000" />
+      <workItem from="1616379787958" duration="745000" />
+      <workItem from="1616380554517" duration="157000" />
+      <workItem from="1616380952548" duration="79000" />
+      <workItem from="1616381044957" duration="2368000" />
+      <workItem from="1616467964698" duration="1290000" />
+      <workItem from="1616557520452" duration="1590000" />
+      <workItem from="1616856477133" duration="2135000" />
+      <workItem from="1616898129360" duration="20000" />
+      <workItem from="1617018534163" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tanhua-server/src/main/java/com/itheima/tanhua/server/service/ImService.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tanhua-server/src/main/java/com/itheima/tanhua/server/service/ImService.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tanhua-server/src/main/java/com/itheima/tanhua/server/service/ImService.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.alibaba.dubbo.rpc.RpcException" package="com.alibaba.dubbo.rpc" />
+          <option name="timeStamp" value="26" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-service/src/main/java/com/itheima/tanhua/dubbo/server/api/impl/RecommendUserApiImpl.java" line="27">
+        <watch expression=" query " />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/tanhua-server/src/main/java/com/itheima/tanhua/server/controller/IMController.java" line="56">
+        <watch expression="pageResult" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-service/src/test/java/com/itheima/tanhua/dubbo/server/test/TestRecommendUserApi.java" line="20">
+        <watch expression="recommendUserApi" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tanhua_server$ServiceApp.ic" NAME="ServiceApp 覆盖结果" MODIFIED="1615080688035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima.tanhua.server.*</FILTER>
+    </SUITE>
+  </component>
+</project>

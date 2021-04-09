@@ -1,0 +1,22 @@
+rocketmq:
+  name-server: 192.168.31.81:9876
+  producer:
+    group: tanhua
+server:
+  port: 18082
+spring:
+  application:
+    name: itheima-rocketmq
+  data:
+    mongodb:
+      uri: mongodb://192.168.31.81:27017/tanhua
+  redis:
+    cluster:
+      max-redirects: 5
+      nodes: 192.168.31.81:6379,192.168.31.81:6380,192.168.31.81:6381
+    jedis:
+      pool:
+        max-Idle: 100
+        max-wait: 5000ms
+        min-Idle: 10
+    timeout: 10s

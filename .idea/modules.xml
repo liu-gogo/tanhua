@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tanhua.iml" filepath="$PROJECT_DIR$/tanhua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-interface/tanhua-dubbo-interface.iml" filepath="$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-interface/tanhua-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-parent.iml" filepath="$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-service/tanhua-dubbo-service.iml" filepath="$PROJECT_DIR$/tanhua-dubbo-parent/tanhua-dubbo-service/tanhua-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-es/tanhua-es.iml" filepath="$PROJECT_DIR$/tanhua-es/tanhua-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-recommend/tanhua-recommend.iml" filepath="$PROJECT_DIR$/tanhua-recommend/tanhua-recommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-server/tanhua-server.iml" filepath="$PROJECT_DIR$/tanhua-server/tanhua-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-sso/tanhua-sso.iml" filepath="$PROJECT_DIR$/tanhua-sso/tanhua-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tanhua-sso-interface/tanhua-sso-interface.iml" filepath="$PROJECT_DIR$/tanhua-sso-interface/tanhua-sso-interface.iml" />
+    </modules>
+  </component>
+</project>

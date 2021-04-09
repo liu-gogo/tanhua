@@ -1,0 +1,92 @@
+spring:
+  application:
+    name: itheima-tanhua-sso
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3307/tanhua?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+    username: root
+    password: root
+  shardingsphere:
+    datasource:
+      names: master,slave01,slave02
+      master:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3307/tanhua?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+        username: root
+        password: root
+      slave01:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3307/tanhua?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+        username: root
+        password: root
+      slave02:
+        type: com.alibaba.druid.pool.DruidDataSource
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3307/tanhua?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+        username: root
+        password: root
+    masterslave:
+      name: ms
+      master-data-source-name: master
+      slave-data-source-names: slave01,slave02
+    props:
+      sql:
+        show: true
+
+  redis:
+    jedis:
+      pool:
+        max-wait: 5000ms
+        max-idle: 100
+        min-idle: 10
+    timeout: 10s
+    cluster:
+      nodes: 192.168.31.81:6379,192.168.31.81:6380,192.168.31.81:6381
+      max-redirects: 5
+
+
+server:
+  port: 18080
+
+mybatis-plus:
+  type-enums-package: com.itheima.tanhua.sso.enums
+  global-config:
+    db-config:
+      table-prefix: tb_
+      id-type: auto
+
+rocketmq:
+  name-server: 192.168.31.81:9876
+  producer:
+    group: tanhua
+
+
+jwt:
+  secret: 76bd425b6f29f7fcc2e0bfc286043df1
+
+arcsoft:
+  appid: 7ZazytZkRC37WEZyrqEbLnHHqheAaK7wW2u4ADHSU69z
+  sdkkey: ERW4YD9nG26S5EhM32U5CaePo6JDtGJstZzzyjvkMQWc
+  libPath: H:\sdk\虹软\Windows64\libs\WIN64
+
+
+dubbo:
+  application:
+    name: dubbo-provider-tanhua
+  protocol:
+    name: dubbo
+    port: 20882
+  registry:
+    address: zookeeper://localhost:2181
+    client: zkclient
+    timeout: 60000
+  scan:
+    basePackages: com.itheima.tanhua.sso.api
+
+
+
+
+

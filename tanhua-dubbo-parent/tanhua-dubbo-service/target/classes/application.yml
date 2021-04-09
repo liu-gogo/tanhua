@@ -1,0 +1,31 @@
+dubbo:
+  application:
+    name: dubbo-provider-tanhua
+  protocol:
+    name: dubbo
+    port: 20881
+  registry:
+    address: zookeeper://localhost:2181
+    client: zkclient
+    timeout: 60000
+  scan:
+    basePackages: com.itheima.tanhua.dubbo.server.api
+spring:
+  application:
+    name: itheima-tanhua-dubbo-server
+  data:
+    mongodb:
+      authentication-database: admin
+      database: tanhua
+      host: 192.168.31.81
+      password: l3SCjl0HvmSkTtiSbN0Swv40spYnHhDV
+      port: 27017
+      username: tanhua
+fdfs:
+  connect-timeout: 601
+  so-timeout: 1501
+  thumb-image:
+    height: 150
+    width: 150
+  tracker-list: 192.168.31.81:22122
+  web-server-url: http://192.168.31.81:8888/

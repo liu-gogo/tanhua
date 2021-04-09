@@ -1,0 +1,78 @@
+dubbo:
+  application:
+    name: itheima-tanhua-service
+  consumer:
+    check: false
+    timeout: 60000
+  registry:
+    address: zookeeper://localhost:2181
+    client: zkclient
+    timeout: 60000
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+      table-prefix: tb_
+  type-enums-package: com.itheima.tanhua.server.enums
+server:
+  port: 18081
+spring:
+  application:
+    name: itheima-tanhua-service
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    password: root
+    url: jdbc:mysql://192.168.31.81:3306/mytanhua?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+    username: root
+  servlet:
+    multipart:
+      max-file-size: 30MB
+      max-request-size: 30MB
+
+  redis:
+    cluster:
+      max-redirects: 5
+      nodes: 192.168.31.81:6379,192.168.31.81:6380,192.168.31.81:6381
+    jedis:
+      pool:
+        max-Idle: 100
+        max-wait: 5000ms
+        min-Idle: 10
+    timeout: 10s
+tanhua:
+  sso:
+    default:
+      user: 2
+      users: 2,3,4,5,6,7,8,9,10,11,12,13
+    url: http://127.0.0.1
+  cache:
+    enable: true
+  huanxin:
+        appName: tanhua
+        clientId: YXA6vgB-JF9uRvK67uiNgt102A
+        clientSecret: YXA6B1-4S07WQhyjpghYF3Bxs9t_xLU
+        orgName: 1159210309083840
+        url: http://a1.easemob.com/
+
+fdfs:
+  connect-timeout: 601
+  so-timeout: 1501
+  thumb-image:
+    height: 150
+    width: 150
+  tracker-list: 192.168.31.81:22122
+  web-server-url: http://192.168.31.81:8888/
+
+rocketmq:
+  name-server: 192.168.31.81:9876
+  producer:
+    group: tanhua
+
+
+
+
+
+
+
+
+
